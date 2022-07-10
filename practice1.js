@@ -1,0 +1,6 @@
+console.time("your code took")
+console.warn("this is a warning")
+console.table({ "harry": 89, "Amit": 78 })
+    // console.clear()
+console.timeEnd("your code took")
+console.log({ "Amit": 98, "Harry": 98 })
